@@ -1,1 +1,6 @@
-Это новый пост. 
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
